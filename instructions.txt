@@ -3,3 +3,12 @@ https://framework7.io/apps/
 
 Examples:
 https://framework7.io/examples/
+
+Comparision and Useful links for explore
+https://comtechies.com/2017-preferred-mobile-app-development-frameworks.html
+https://stackshare.io/stackups/framework7-vs-ionic-vs-xamarin
+https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen
+
+https://blog.flennik.com/a-challenger-for-ionic-aurelia-framework7-63a53e736b8a
+
+https://youtu.be/bypZXTOiff4

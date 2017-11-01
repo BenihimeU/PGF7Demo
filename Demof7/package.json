@@ -5,11 +5,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "cordova-android": "^6.3.0",
     "cordova-browser": "^5.0.1"
   },
   "cordova": {
     "platforms": [
-      "browser"
+      "browser",
+      "android"
     ]
   }
 }
