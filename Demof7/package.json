@@ -1,7 +1,15 @@
 {
-    "name": "demof7",
-    "version": "1.0.0",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    }
+  "name": "demof7",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cordova-browser": "^5.0.1"
+  },
+  "cordova": {
+    "platforms": [
+      "browser"
+    ]
+  }
 }
